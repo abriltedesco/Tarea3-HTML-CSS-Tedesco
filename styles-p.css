@@ -1,0 +1,71 @@
+body{
+    margin: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: rgb(162, 212, 231);
+    color:black;
+    width:100%;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+header h1{
+    font-size: 40px ;
+    margin: 0px;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 15px;
+    padding:30px;
+}
+
+.fotom img{
+    width: 330px;
+    height: 290px;
+}
+
+.fotoj img{
+    width: 310px;
+    height: 290px;
+}
+
+.fotop img{
+    width: 290px;
+    height: 290px;
+}
+
+.fotod img{
+    width: 330px;
+    height: 300px;
+}
+
+.fotoa img{
+    width: 300px;
+    height: 300px;
+}
+
+.fotos img{
+    width: 290px;
+    height: 290px;
+}
+
+.fotoan img{
+    width: 330px;
+    height: 310px;
+}
+
+.fotok img{
+    width: 300px;
+    height: 300px;
+}
+
+.fotoke img{
+    width: 290px;
+    height: 290px;
+}
+
